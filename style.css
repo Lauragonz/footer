@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    background-image: url('./src/img/DALL·EBGdg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 14vh;
+    padding: 1rem;
+    color: #f9f9f9;
+}
+
+.img__logo {
+    height: 3rem;
+}
